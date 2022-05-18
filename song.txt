@@ -1,2 +1,4 @@
 welcome epam training 
 all the best
+select any document under repositry
+open that documnet and click on edit option and some lines of text data in that documnet after that click on commit changes
