@@ -2,3 +2,17 @@ welcome epam training
 all the best
 select any document under repositry
 open that documnet and click on edit option and some lines of text data in that documnet after that click on commit changes
+
+You can download git here: http://git-scm.com/downloads
+
+Install Git with default settings.
+
+Generating a pair of ssh keys:
+
+     $ ssh-keygen -t rsa –C “Cheedella_Chandra_Sekar@epam.com"
+
+
+
+     git config --global user.name “Vitali Shulha“
+
+     git config --global user.email “vitali_Shulha@epam.com"
